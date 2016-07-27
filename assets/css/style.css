@@ -1,0 +1,54 @@
+#nheader{
+	background-color:#FFF;
+	width:1350px;
+	height:50px;
+	
+	
+}
+
+img{
+	width:20px;
+	height:25px;
+	
+}
+#button{
+	width:0.2px;
+	height:0.2px;
+	float:right;
+}
+#label{
+	width:70px;
+	height:50px;
+	float:right;
+}
+#upbody{
+	float:left;
+	background-color:#807e7e ;
+	width:1350px;
+ 
+}
+footer{
+	background-color:#807e7e ;
+}
+#button1{float:right;}
+body nav{
+
+background:#36D7B8D;
+}
+body  nav ul{
+list-style:none;
+
+
+}
+ body nav li{
+display:blook;
+float:left;
+padding:6px 12px 0 0;
+
+}
+body  nav a{
+
+text-decoration:none;
+
+}
+#nav{float:center;}
